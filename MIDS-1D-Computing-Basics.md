@@ -44,7 +44,7 @@ The big topics are
 Understanding how a computer works and the role of the Operating System is the basis for any work with cloud technology and distributed computing as is the standard for many big data and machine learning approaches.
 
 The following course is offered through EDX and was created by NYU:
-https://courses.edx.org/courses/course-v1:NYUx+FCS.OS.1+1T2020/course/
+https://www.edx.org/course/computer-hardware-and-operating-systems
 
 This course is relatively short with 5 lectures rangning from 50 minutes to 1 hour 40 minutes. Please do not skip over weeks 3 and 4.
 
