@@ -112,7 +112,7 @@ Understanding how computers communicate with each other is a basic concept neces
 and more. Networking comes in two parts. The following EDX course, again from NYU, covers an overview of the network stack. 
 We will later revisit networking for a special topic, SSH proxies, that is needed to attend W261 Machine Learning at Scale.
 
-https://courses.edx.org/courses/course-v1:NYUx+FCS.NET.1+1T2020/course/
+https://learning.edx.org/course/course-v1:NYUx+FCS.NET.1+1T2021
 
 Please make sure to at least audit lectures 1 to 4 (Network Layer)
 
@@ -174,7 +174,7 @@ Please make sure to at least audit lectures 1 to 4 (Network Layer)
 ### LINUX
 Most server infrastructure in use today is based in LINUX systems. MacOS too has a LINUX system at its core. Understanding the principles of this specific brand of operating systems and finding your way around in it is fundamental to this program. Many tools today abstract away the complexity of the underlying system but in order to debug a problem or create a new way of using modern tools will bring you back to digging deeper into LINUX.
 The following EDX course is made and maintained by the LinuxFoundation.
-https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS101x+1T2020/course/
+https://www.edx.org/course/introduction-to-linux
 
 Please go through at minimum chapters 3, 7 - 16, and 18. In chapter 14 you can skip directly to Networking configuration tools if you have finished the networking class before. You may also skip 9 if you are familar with ps and top and have finished the OS lecture above.
 
@@ -304,10 +304,10 @@ Git is an essential tool used across most modern tech companies. In the MIDS pro
   </details>        
   
   5. To clone this reppository you need the URL found on the top of this page. The correct URL to clone is<br>
-    (a) https://github.com/dschioberg/MIDS-1D-Computing-Basics.wav<br>
-    (b) https://github.com/dschioberg/MIDS-1D-Computing-Basics.html<br>
-    (c) https://github.com/dschioberg/MIDS-1D-Computing-Basics.mp3<br>
-    (d) https://github.com/dschioberg/MIDS-1D-Computing-Basics.git<br>
+    (a) https://github.com/UC-Berkeley-I-School/MIDS-1D-Computing-Basic.wav<br>
+    (b) https://github.com/UC-Berkeley-I-School/MIDS-1D-Computing-Basic.html<br>
+    (c) https://github.com/UC-Berkeley-I-School/MIDS-1D-Computing-Basic.mp3<br>
+    (d) https://github.com/UC-Berkeley-I-School/MIDS-1D-Computing-Basic.git<br>
   <details>
     <summary>Answer</summary>
     d 
