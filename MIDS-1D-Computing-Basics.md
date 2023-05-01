@@ -43,10 +43,8 @@ The big topics are
 ### Operating systems
 Understanding how a computer works and the role of the Operating System is the basis for any work with cloud technology and distributed computing as is the standard for many big data and machine learning approaches.
 
-The following course is offered through EDX and was created by NYU:
-https://www.edx.org/course/computer-hardware-and-operating-systems
-
-This course is relatively short with 5 lectures rangning from 50 minutes to 1 hour 40 minutes. Please do not skip over weeks 3 and 4.
+The following course is offered through EDX: https://www.edx.org/course/introduction-to-hardware-and-operating-systems
+The relevant modules are 1 and 4. If you want to use different courses make sure they cover basic operating systems components like filesystem, the concept of a process and how it interacts with CPU and memory, I/O, schedulers, etc. 
 
 <details>
   <summary>Quiz - click to see</summary>
@@ -105,16 +103,17 @@ This course is relatively short with 5 lectures rangning from 50 minutes to 1 ho
   </details>
 </details>  
 
+Last check: Think through what happens in the OS, when you write a Python script that writes "Hello world" into a file?
 
 ### Networking 
 
 Understanding how computers communicate with each other is a basic concept necessary to work with cloud tech, multi container setups, 
-and more. Networking comes in two parts. The following EDX course, again from NYU, covers an overview of the network stack. 
+and more. Networking comes in two parts. The following EDX course covers an overview of the network stack. 
 We will later revisit networking for a special topic, SSH proxies, that is needed to attend W261 Machine Learning at Scale.
 
-https://learning.edx.org/course/course-v1:NYUx+FCS.NET.1+1T2021
+https://www.edx.org/course/network-security-foundations
 
-Please make sure to at least audit lectures 1 to 4 (Network Layer)
+You can use any courses that cover the basics of the ISO-OSI network stack, IP, TCP, and firewalls.
 
 <details>
   <summary>Quiz - click to see</summary>
