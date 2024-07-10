@@ -109,11 +109,8 @@ Last check: Think through what happens in the OS, when you write a Python script
 
 Understanding how computers communicate with each other is a basic concept necessary to work with cloud tech, multi container setups, 
 and more. Networking comes in two parts. The following EDX course covers an overview of the network stack. 
-We will later revisit networking for a special topic, SSH proxies, that is needed to attend W261 Machine Learning at Scale.
-
-https://www.edx.org/course/network-security-foundations
-
-You can use any courses that cover the basics of the ISO-OSI network stack, IP, TCP, and firewalls.
+You can use any courses that cover the basics of the ISO-OSI network stack, IP, TCP, and firewalls. For example, on EDX find the course "Boston University EC441
+Introduction to Computer Networking"
 
 <details>
   <summary>Quiz - click to see</summary>
